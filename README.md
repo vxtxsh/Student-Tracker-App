@@ -9,5 +9,5 @@ This project was developed as part of our college inspection during the second y
 ## Technologies Used
 - Dart
 - Flutter
-- RFID RC22 Scanner
+- RFID RC22 Scanner (IOT Implementation)
 - Firebase (for backend services)
